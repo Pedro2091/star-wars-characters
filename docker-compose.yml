@@ -1,6 +1,6 @@
 services: 
   test:
-    container_name: desafio-tecnico-test
+    container_name: star-wars-characters-test
     build:
       context: . 
       target: dev
@@ -16,7 +16,7 @@ services:
       - 3000:3000
 
   dev:
-    container_name: desafio-tecnico-dev
+    container_name: star-wars-characters-dev
     build:
       context: . 
       target: dev
