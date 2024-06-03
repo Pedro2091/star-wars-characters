@@ -1,0 +1,18 @@
+.header {
+    background: radial-gradient(30% 50% at 25% -10%, #693BD0, #00102900), radial-gradient(10% 80% at -3% 90%, #009ED2, #00102900), radial-gradient(30% 70% at 80% 130%, #693BD0, #00102900), radial-gradient(12% 90% at 105% 50%, #009ED2, #00102900), #001029;
+    color: white;
+    padding: 1rem 0;
+}
+
+.title {
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin: 0;
+    text-align: center;
+}
+
+.subtitle {
+    font-size: 1.2rem;
+    font-weight: 400;
+    margin: 0;
+}

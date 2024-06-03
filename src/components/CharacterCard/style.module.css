@@ -1,0 +1,20 @@
+.card {
+    width: 370px;
+    font-weight: 400;
+    font-size: .8rem;
+    box-shadow: 0px 2px 10px 0px rgba(0, 0, 0, 0.2);
+}
+
+.title {
+    color: red;
+}
+
+.label {
+    font-weight: 700;
+}
+
+@media screen and (max-width: 425px) {
+    .card {
+        width: 280px;
+    }
+}

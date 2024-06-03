@@ -1,0 +1,35 @@
+version: "3.8"
+services: 
+  test:
+    container_name: desafio-tecnico-test
+    build:
+      context: . 
+      target: dev
+    restart: always
+    command: npm run test
+    environment:
+      - CI=true
+    volumes:
+      - .:/app
+      - /app/node_modules
+      - /app/.next
+    ports:
+      - 3000:3000
+
+  dev:
+    container_name: desafio-tecnico-dev
+    build:
+      context: . 
+      target: dev
+    restart: always
+    command: npm run dev
+    environment:
+      - NODE_ENV=development 
+      - WATCHPACK_POLLING=true
+    volumes:
+      - .:/app
+      - /app/node_modules
+      - /app/.next
+    ports:
+      - 3000:3000
+
