@@ -31,7 +31,7 @@ It was created as a challenge project for [Smartnx](https://www.smartnx.com/) in
 
 2. Clone the repository
 ```bash
-git clone https://github.com/Pedro2091/Desafio-Tecnico.git
+git clone https://github.com/Pedro2091/star-wars-caracters.git
 ```
 3. Create the Docker containers
 ```bash
