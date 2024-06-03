@@ -1,4 +1,4 @@
-<h1 align="center">Star Wars Caracters</h1>
+<h1 align="center">Star Wars Characters</h1>
 
 <p align="center">
     <img width="150" src="./public/logo.png">
@@ -31,7 +31,7 @@ It was created as a challenge project for [Smartnx](https://www.smartnx.com/) in
 
 2. Clone the repository
 ```bash
-git clone https://github.com/Pedro2091/star-wars-caracters.git
+git clone https://github.com/Pedro2091/star-wars-characters.git
 ```
 3. Create the Docker containers
 ```bash
