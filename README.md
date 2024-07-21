@@ -24,6 +24,9 @@ It was created as a challenge project for [Smartnx](https://www.smartnx.com/) in
 - [ESLint](https://eslint.org/)
 - [Ant Design](https://ant.design/)
 
+## Demo
+
+[https://star-wars-characters-ivory.vercel.app/](https://www.docker.com/products/docker-desktop/](https://star-wars-characters-ivory.vercel.app/))
 
 ## Installation
 
