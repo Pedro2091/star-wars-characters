@@ -26,7 +26,7 @@ It was created as a challenge project for [Smartnx](https://www.smartnx.com/) in
 
 ## Demo
 
-[https://star-wars-characters-ivory.vercel.app/](https://www.docker.com/products/docker-desktop/](https://star-wars-characters-ivory.vercel.app/))
+[https://star-wars-characters-ivory.vercel.app/](https://star-wars-characters-ivory.vercel.app/)
 
 ## Installation
 
